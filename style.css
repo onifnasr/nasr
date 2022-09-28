@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    background-color: pink;
+}
+header{
+    color: yellow;
+}
+ul{
+    font-weight: bold;
+}
+p{
+    color:blue;
+}
+h1{
+    color: bisque;
+}
+footer{
+    font-size: medium;
+}
