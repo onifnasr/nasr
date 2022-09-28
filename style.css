@@ -18,3 +18,9 @@ h1{
 footer{
     font-size: medium;
 }
+body {
+    width: 300px;
+    border: 10px solid yellow ;
+    padding: 50px;
+    margin: 20px;
+  }
