@@ -15,12 +15,34 @@ p{
 h1{
     color: bisque;
 }
-footer{
-    font-size: medium;
-}
 body {
     width: 300px;
     border: 10px solid yellow ;
     padding: 50px;
     margin: 20px;
   }
+header{
+     width: 100px;
+     border: 5px solid white;
+     padding: 20px;
+     margin: 15px;
+ } 
+nav{
+    width: 90px;
+    border: 5px solid white;
+    padding: 20px;
+    margin: 15px;
+} 
+main{
+    width: 200px;
+    border: 5px solid white;
+    padding: 20px;
+    margin: 15px;
+}
+footer{
+    width: 100px;
+    border: 5px solid yellow;
+    padding: 20px;
+    margin: 15px;
+}
+
